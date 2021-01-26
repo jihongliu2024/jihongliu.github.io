@@ -53,7 +53,7 @@ More details to come, including registration form.
   * We encourge the "full methods" to include hiccups, deadends, false positives, and issues that made you want to scream 
 * Presentations will be recorded prior to the week of the conference to allow for closed captioning (recording dates flexible)
 * Speakers will participate in a live (unrecorded) Q&A on 10 June 2021
-* Speakers will work with the organizing committee to translate the methods in their presentation into an open format and/or workflow to be hosted on suitable platform
+* The organising committee will work with the speakers to translate the methods in their presentation into an open format and/or workflow to be hosted on suitable platform
 * All speakers must adhere to the established BVCN Code of Conduct (https://biovcnet.github.io/_pages/code-of-conduct/) and modifications as necessary during conference planning.
 
 #### Speaker benefits
