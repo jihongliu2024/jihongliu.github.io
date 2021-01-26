@@ -11,7 +11,7 @@ sidebar:
 # Holistic Bioinformatic Approaches used in Microbiome Research
 ## Presented by The Bioinformatics Virtual Coordination Network
 
- A step-by-step open access conference showcasing state-of-the-art bioinformatics pipelines within microbiome research
+A step-by-step open access conference showcasing state-of-the-art bioinformatics pipelines within microbiome research
  
 The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing entry barriers into bioinformatics for researchers. For the first time in June 2021, this online conference will bring together ECRs from across the globe who are equally committed to reducing such entry barriers, and who would like to exchange and share their research and bioinformatics experiences in a step-by-step format with a global and interdisciplinary audience.
  
@@ -64,7 +64,7 @@ More details to come, including registration form.
 
 ## Conference Diversity Goals
 
-Diversity of nominees, country of residence, and research topics will considered in the final decision for speakers.
+Diversity of nominees, country of residence, and research topics will be considered in the final decision for speakers.
 
 All collected demographic information is optional and sharing will be minimized to protect your privacy. Initially, only a single member will have access to the data, which will be kept private. Demographics will be shared amongst the other organizing members only when necessary to make an informed decision.
 
