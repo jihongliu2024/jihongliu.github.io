@@ -28,7 +28,7 @@ Day 4: Speaker Q&A Panels (10 June 2021)
 
 Day 5: Virtual attendee poster session (11 June 2021)
 
-Expected attendee capactity. 75-100 attendees
+Expected attendee capacity. 75-100 attendees
 
 More details to come, including registration form.
 
@@ -50,7 +50,7 @@ More details to come, including registration form.
 #### Speaker commitments
 
 * Speakers will create an hour long presentation that details the FULL bioinformatic methods that happen in a body of research (1 or more preprints/publications) 
-  * We encourge the "full methods" to include hiccups, deadends, false positives, and issues that made you want to scream 
+  * We encourage the "full methods" to include hiccups, deadends, false positives, and issues that made you want to scream 
 * Presentations will be recorded prior to the week of the conference to allow for closed captioning (recording dates flexible)
 * Speakers will participate in a live (unrecorded) Q&A on 10 June 2021
 * The organising committee will work with the speakers to translate the methods in their presentation into an open format and/or workflow to be hosted on suitable platform
