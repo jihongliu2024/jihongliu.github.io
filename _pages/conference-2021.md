@@ -16,7 +16,7 @@ A step-by-step open access conference showcasing state-of-the-art bioinformatics
 The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing entry barriers into bioinformatics for researchers. For the first time in June 2021, this online conference will bring together ECRs from across the globe who are equally committed to reducing such entry barriers, and who would like to exchange and share their research and bioinformatics experiences in a step-by-step format with a global and interdisciplinary audience.
  
 # Conference dates - 7-11 June 2021
-# [Speaker nominations]() - open application 28 January - 15 February 2021 11:59PM US PST
+# [Speaker nominations](https://docs.google.com/forms/d/e/1FAIpQLSc828CsN_Qw7zeLeFg-z18GDBh3QkWpcv6BYnDImJNl1MgRDA/viewform?usp=sf_link) - open application 28 January - 15 February 2021 11:59PM US PST
 
 ## Conference format
 
@@ -34,7 +34,7 @@ More details to come, including registration form.
 
 ## Speaker nomination
 
-[Nomination form]()
+[Nomination form](https://docs.google.com/forms/d/e/1FAIpQLSc828CsN_Qw7zeLeFg-z18GDBh3QkWpcv6BYnDImJNl1MgRDA/viewform?usp=sf_link)
 
 **Self-nominations are accepted and encouraged!!** 
 **Do not convince yourself not to apply because one or more of the categories below are not a perfect fit!**
