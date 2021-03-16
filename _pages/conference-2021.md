@@ -42,7 +42,7 @@ Day 4: Speaker Q&A Panels (10 June 2021)
 
 Day 5: Virtual attendee poster session (11 June 2021)
 
-Expected attendee capactity. ~150 attendees
+Expected attendee capacity. ~150 attendees
 
 ## Attendee registration
 
@@ -54,7 +54,7 @@ Expected attendee capactity. ~150 attendees
 Presentations will "premiere" twice daily through a live webinar format, where attendees will be encouraged to come watch together and collectively participate in crafting questions for the speakers. Can't make the premiere time? Don't worry! Presentations will simultaneously go live on YouTube and can be watched by anyone (not just conference attendees!)
 
 ### Speaker Panel Q&A
-Instead of a Q&A session after each presentation, we will host one **LIVE** Q&A Sesssion on the 4th day of the conference (10 June 2021). The Q&A will be only for conference attendees. A time will be selected to accommodate the maximum number of attendees, but we know conflicting timezones will impact some attendees. The Q&A will not be recorded, BUT a formalized question and response document will be created and shared with all attendees.
+Instead of a Q&A session after each presentation, we will host one **LIVE** Q&A Session on the 4th day of the conference (10 June 2021). The Q&A will be only for conference attendees. A time will be selected to accommodate the maximum number of attendees, but we know conflicting time zones will impact some attendees. The Q&A will not be recorded, BUT a formalized question and response document will be created and shared with all attendees.
 
 ### Posters
 Virtual posters must be submitted by **1 June 2021**
@@ -67,16 +67,16 @@ Posters include:
 
 * title
 * abstract
-* virtual poster optimized with accessibility elements (formats: 3-slide Powerpoint, PDF)
+* virtual poster optimized with accessibility elements (formats: 3-slide PowerPoint, PDF)
 * (optional) voice recording of the poster (less than 3-minutes; format: MP4)
 * (optional) one question that you want/need/desire to be answered. Think bioinformatic centric conversation starters, like: "How do I convert my data table to look like this type of figure?" or "Which tool performs this specific step I need in my analysis?" 
 
 Poster awards: Graduate students and ECRs will be eligible for 1 of 3 poster prizes awarded to commemorate work that exemplifies open science approaches to bioinformatics.
 
 ### Accessibility
-Primary conference language: English (our conference platforms allow for attendees to self aggregate into channels for language options driven by the attendee community)
+Primary conference language: English (our conference platforms allow for attendees to self-aggregate into channels for language options driven by the attendee community)
 
-Recorded presentations will premiere with edited and cleaned closed captioning. Presentations will also be provided in Powerpoint format with alternative text provided for figures.
+Recorded presentations will premiere with edited and cleaned closed captioning. Presentations will also be provided in PowerPoint format with alternative text provided for figures.
 
 The Q&A Session will have Zoom provided live captioning and all questions and speaker answers will be recorded (and formalized) in a shared document format, providing a lasting resource for reference.
 
@@ -100,7 +100,7 @@ Should attendee interest exceed our limit of 150 participants, we select attende
 
 Graduate students and ECRs
 
-* willingness to pariticpate conference surveys
+* willingness to participate conference surveys
 * response to the question: "How do you expect that attending the *Holistic Bioinformatic Approaches used in Microbiome Research* will enhance your research and/or studies? (Max. 240 characters)"
 * country of current research institution
 * interest in supplying a poster presentation
@@ -108,11 +108,11 @@ Graduate students and ECRs
 
 Principal Investigators
  
-* willingness to pariticipate conference surveys
+* willingness to participate conference surveys
 * response to the question: "Please provide a brief summary of your views regarding **good** mentorship of early career researchers, including your commitment to inclusive mentorship and practices in support of diversity and equity. (Max. 360 characters)"
 * country of current research institution
 * interest in supplying a poster presentation
 
 # Sponsors
 
-This event was funded in full by an grant from Code for Science & Society, made possible by grant number GBMF8449 from the Gordon and Betty Moore Foundation
+This event was funded in full by a grant from Code for Science & Society, made possible by grant number GBMF8449 from the Gordon and Betty Moore Foundation
