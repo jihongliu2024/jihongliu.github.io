@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 ---
 
-# Project Lead/Coordinating Committee
+# Project Lead
 
 ## Ben Tully
 
@@ -24,6 +24,8 @@ sidebar:
 
 **Bio:** I am a microbiologist/bioinformatian working in the marine environment. My interests involve studying microbial communities and functions through the tool of metagenomics. As part of this research, I work to develop new bioinformatic tools that capitalizes on the growing number of environmental microbial genomes.
 
+# Coordinating Committee
+
 ## Mike Lee
 
 <img align="left" src="/images/Mike-Lee-Atlantis.jpg" width="200px" style="padding-right: 15px">
@@ -38,7 +40,7 @@ sidebar:
 <br>
 **Bio:** I’m a microbial ecologist/bioinformatician at NASA’s Ames Research Center in northern California, USA. I get to work in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽. Having [gone through it myself](https://astrobiomike.github.io/about/){:target="_blank"}, I very much enjoy trying to help folks get through the initial steep learning curve that lots of us face when we start getting into bioinformatics. In addition to regularly helping to organize and teach at bioinformatics workshops such as [STAMPS](https://mblstamps.github.io/){:target="_blank"} and [ANGUS](https://angus.readthedocs.io/en/2019/){:target="_blank"}, I develop and maintain [Happy Belly Bioinformatics](https://astrobiomike.github.io/){:target="_blank"}, a site that aims to be a useful resource for biologists who are new to bioinformatics 🙂  
 
-# Active Instructors
+# BVCN Instructors
 
 ## Jake L. Weissman
 
@@ -281,7 +283,7 @@ I am a Postdoctoral Fellow at Woods Hole Oceanographic Institution (Marine Chemi
 ---
 
 
-# Inactive Instructors
+# Honorary BVCN Instructors
 
 ## Adelaide Rhodes
 
