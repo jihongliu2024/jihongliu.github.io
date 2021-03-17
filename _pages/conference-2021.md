@@ -26,17 +26,23 @@ The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing 
 Day 1: **Biomedical Microbiology** (7 June 2021)
 
 * Miriam Bravo López, Ph.D candidate, International Laboratory for Human Genome Research (LIIGH)-UNAM
+  * "Paleogenomic landscape of pathogens in Pre- and Contact individuals from the Americas"
 * Himel Mallick, Senior Scientist, Merck Research Laboratories
+  * "Downstream analysis and visualization of multi-omics data for end-to-end biomarker discovery and functional integration"
 
 Day 2: **Environmental Microbiology** (8 June 2021)
 
 * Harriet Alexander, Assistant Scientist, Woods Hole Oceanographic Institution
+  * "EukHeist: Scalable and automated discovery of eukaryotic genomes from a global dataset" 
 * Chiara Vanni, Ph.D. candidate, Max Planck Institute for Marine Microbiology
+  * "Unifying the microbial known and unknown coding sequence space" 
 
 Day 3: **Microbial Biotechnology** (9 June 2021)
 
 * Bérénice Batut, Postdoctoral Researcher, University of Freiburg
+  * "Galaxy for microbiome via ASaiM story - From a local project to a global effort to support microbiome data analysis"
 * Martin Steinegger, Assistant Professor, Seoul National University
+  * "Metagenomic pathogen detection using MMseqs2, Plass, and Linclust" 
 
 Day 4: Speaker Q&A Panels (10 June 2021)
 
