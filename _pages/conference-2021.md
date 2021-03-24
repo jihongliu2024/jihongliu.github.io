@@ -27,7 +27,7 @@ Day 1: **Biomedical Microbiology** (7 June 2021)
 
 * Miriam Bravo López, Ph.D candidate, International Laboratory for Human Genome Research (LIIGH)-UNAM
   * "Paleogenomic landscape of pathogens in Pre- and Contact individuals from the Americas"
-* Himel Mallick, Senior Scientist, Merck Research Laboratories
+* [Himel Mallick, Senior Scientist, Merck Research Laboratories](http://himelmallick.org/)
   * "Downstream analysis and visualization of multi-omics data for end-to-end biomarker discovery and functional integration"
 
 Day 2: **Environmental Microbiology** (8 June 2021)
@@ -41,7 +41,7 @@ Day 3: **Microbial Biotechnology** (9 June 2021)
 
 * Bérénice Batut, Postdoctoral Researcher, University of Freiburg
   * "Galaxy for microbiome via ASaiM story - From a local project to a global effort to support microbiome data analysis"
-* Martin Steinegger, Assistant Professor, Seoul National University
+* [Martin Steinegger, Assistant Professor, Seoul National University](http://steineggerlab.com/)
   * "Metagenomic pathogen detection using MMseqs2, Plass, and Linclust" 
 
 Day 4: Speaker Q&A Panels (10 June 2021)
