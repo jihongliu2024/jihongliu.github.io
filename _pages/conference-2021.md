@@ -39,7 +39,7 @@ Day 2: **Environmental Microbiology** (8 June 2021)
 
 Day 3: **Microbial Biotechnology** (9 June 2021)
 
-* Bérénice Batut, Postdoctoral Researcher, University of Freiburg
+* [Bérénice Batut, Postdoctoral Researcher, University of Freiburg](https://research.bebatut.fr/)
   * "Galaxy for microbiome via ASaiM story - From a local project to a global effort to support microbiome data analysis"
 * [Martin Steinegger, Assistant Professor, Seoul National University](http://steineggerlab.com/)
   * "Metagenomic pathogen detection using MMseqs2, Plass, and Linclust" 
