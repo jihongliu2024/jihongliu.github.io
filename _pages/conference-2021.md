@@ -32,7 +32,7 @@ Day 1: **Biomedical Microbiology** (7 June 2021)
 
 Day 2: **Environmental Microbiology** (8 June 2021)
 
-* Harriet Alexander, Assistant Scientist, Woods Hole Oceanographic Institution
+* [Harriet Alexander, Assistant Scientist, Woods Hole Oceanographic Institution](http://alexanderlabwhoi.github.io/)
   * "EukHeist: Scalable and automated discovery of eukaryotic genomes from a global dataset" 
 * Chiara Vanni, Ph.D. candidate, Max Planck Institute for Marine Microbiology
   * "Unifying the microbial known and unknown coding sequence space" 
