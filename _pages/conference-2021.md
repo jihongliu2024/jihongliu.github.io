@@ -28,7 +28,7 @@ Day 1: **Biomedical Microbiology** (7 June 2021)
 * Miriam Bravo López, Ph.D candidate, International Laboratory for Human Genome Research (LIIGH)-UNAM
   * "Paleogenomic landscape of pathogens in Pre- and Contact individuals from the Americas"
 * [Himel Mallick, Senior Scientist, Merck Research Laboratories](http://himelmallick.org/)
-  * "Downstream analysis and visualization of multi-omics data for end-to-end biomarker discovery and functional integration"
+  * "Tweedieverse - A Single Home for Microbiome Multi-omics Differential Analysis"
 
 Day 2: **Environmental Microbiology** (8 June 2021)
 
