@@ -15,59 +15,116 @@ A step-by-step open access conference showcasing state-of-the-art bioinformatics
 The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing entry barriers into bioinformatics for researchers. For the first time in June 2021, this online conference will bring together early career researchers (ECRs) from across the globe who are equally committed to reducing such entry barriers, and who would like to exchange and share their research and bioinformatics experiences in a step-by-step format with a global and interdisciplinary audience.
 
 **Background** The BVCN was established to facilitate entry of researchers in environmental and biomedical sciences into computational biology. To further this goal, this upcoming conference is designed to provide a platform for showcasing bioinformatic projects from inception to publication. The holistic analysis of data intensive projects may contain many steps that are not covered in the tutorials or documented in the methods section of publications - our speakers will try and capture these elements in their presentations.
+
+We will send the final conference schedule on **1 June 2021**. If you have any questions about information in this email or other questions about the BVCN conference, please reach out to conference chair Dr. Ben Tully (tully.bj@gmail.com).
+
+Before we continue, we would like to emphasize that the BVCN conference is intended to be inclusive and accessible for all attendees. As such, we will not allow any violations of the [**BVCN Code of Conduct**](https://biovcnet.github.io/code-of-conduct/). 
  
 # Conference dates - 7-11 June 2021
-# [Attendee Registration](https://forms.gle/XPpxS4HuLvEm1BY6A) - open application 17 March - 14 April 2021 11:59PM US PST
-# FREE!
+# [Pre-conference survey](https://forms.gle/xfp38yERGJQDA3Pt7) - submit by 7 May 2021 11:59PM US PST (<5 minutes in length)
 
-## Conference format
-(Tentative speaker presentation dates)
+## Conference schedule
 
-Day 1: **Biomedical Microbiology** (7 June 2021)
+A finalized schedule will be available before the start of the conference (**1 June 2021**). To help you plan your conference, here are some tentative times for various events. Start times are planned to allow attendees from both hemispheres to attend most events.
+
+<center>
+<img src="/images/schedule-table.png" width="90%">
+</center>
+
+Day 1 Featured presentations (West) - [7 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+1&iso=20210607T14&p1=1440&ah=2)
+
+Day 1 Featured presentations (East) - [8 June 00:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Feature+Presentations+Day+1&iso=20210608T00&p1=1440&ah=2)
+
+Day 2 Featured presentations (West) - [8 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+2&iso=20210608T14&p1=1440&ah=2)
+
+Day 2 Featured presentations (East) - [9 June 00:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+2&iso=20210609T00&p1=1440&ah=2)
+
+Day 3 Featured presentations (West) - [9 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+3&iso=20210609T14&p1=1440&ah=2)
+
+Day 3 Featured presentations (East) - [10 June 00:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside+chat+-+Day+3&iso=20210610T02&p1=1440&ah=1&am=15)
+
+Day 3 Fireside chat (East) - 10 June 02:00 UTC
+
+Day 4 Q&A (West/East) - 10 June TBD
+
+Day 4 Fireside chat (West) - 10 June TBD (following Q&A)
+
+Day 5 Virtual Poster Hall (open) - [11 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Western+Hemisphere+Start+-+Day+5&iso=20210611T14&p1=1440&ah=2)
+
+Day 5 Virtual Poster Hall (close) - [12 June 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Eastern+Hemisphere+Start+-+Day+5&iso=20210612T00&p1=1440&ah=2)
+
+## Featured speaker presentations
+
+Each day, two presentations will premiere as part of a Zoom webinar 
+
+After the Western Hemisphere premiere, the presentations will be available for access through our YouTube channel
+
+**Technology**: Zoom Webinar, YouTube, Rocket.chat
+
+
+Day 1: **Biomedical Microbiology**
 
 * Miriam Bravo López, Ph.D candidate, International Laboratory for Human Genome Research (LIIGH)-UNAM
-  * "Paleogenomic landscape of pathogens in Pre- and Contact individuals from the Americas"
-* [Himel Mallick, Senior Scientist, Merck Research Laboratories](http://himelmallick.org/)
-  * "Tweedieverse - A Single Home for Microbiome Multi-omics Differential Analysis"
+  * *Paleogenomic landscape of pathogens in Pre- and Contact individuals from the Americas*
+* Himel Mallick, Senior Scientist, Merck Research Laboratories
+  * *Tweedieverse - A Single Home for Microbiome Multi-omics Differential Analysis*
 
-Day 2: **Environmental Microbiology** (8 June 2021)
+Day 2: **Environmental Microbiology**
 
-* [Harriet Alexander, Assistant Scientist, Woods Hole Oceanographic Institution](http://alexanderlabwhoi.github.io/)
-  * "EukHeist: Scalable and automated discovery of eukaryotic genomes from a global dataset" 
+* Harriet Alexander, Assistant Scientist, Woods Hole Oceanographic Institution
+	 * E*ukHeist: Scalable and automated discovery of eukaryotic genomes from a global dataset*
 * Chiara Vanni, Ph.D. candidate, Max Planck Institute for Marine Microbiology
-  * "Unifying the microbial known and unknown coding sequence space" 
+	 * *Unifying the microbial known and unknown coding sequence space*
 
-Day 3: **Microbial Biotechnology** (9 June 2021)
+Day 3: **Microbial Biotechnology**
 
-* [Bérénice Batut, Postdoctoral Researcher, University of Freiburg](https://research.bebatut.fr/)
-  * "Galaxy for microbiome via ASaiM story - From a local project to a global effort to support microbiome data analysis"
-* [Martin Steinegger, Assistant Professor, Seoul National University](http://steineggerlab.com/)
-  * "Metagenomic pathogen detection using MMseqs2, Plass, and Linclust" 
+* Bérénice Batut, Postdoctoral Researcher, University of Freiburg
+	 * *Galaxy for microbiome via ASaiM story - From a local project to a global effort to support microbiome data analysis*
+* Martin Steinegger, Assistant Professor, Seoul National University
+	 * *Metagenomic pathogen detection using MMseqs2, Plass, and Linclust*
 
-Day 4: Speaker Q&A Panels (10 June 2021)
 
-Day 5: Virtual attendee poster session (11 June 2021)
 
-Expected attendee capacity. ~150 attendees
+## LIVE Q&A Session
+Start time: TBD
 
-## Attendee registration
+**Technology**: Zoom Webinar, Google Docs, Rocket.chat
 
-[Registration form](https://forms.gle/XPpxS4HuLvEm1BY6A)
 
-## Conference details
+## Fireside chats 
+The fireside chats are events where attendees can gather in a virtual space to converse with other conference attendees. Registration will be required, but will be open to all. Suggested chat topics will be provided to help get the conversation rolling.
 
-### Presentations
-Presentations will "premiere" twice daily through a live webinar format, where attendees will be encouraged to come watch together and collectively participate in crafting questions for the speakers. Can't make the premiere time? Don't worry! Presentations will simultaneously go live on YouTube and can be watched by anyone (not just conference attendees!)
+10 June 2021 - Eastern Hemisphere
 
-### Speaker Panel Q&A
-Instead of a Q&A session after each presentation, we will host one **LIVE** Q&A Session on the 4th day of the conference (10 June 2021). The Q&A will be only for conference attendees. A time will be selected to accommodate the maximum number of attendees, but we know conflicting time zones will impact some attendees. The Q&A will not be recorded, BUT a formalized question and response document will be created and shared with all attendees.
+Start time: After completion of Featured Speaker webinar - 02:00 UTC
 
-### Posters
-Virtual posters must be submitted by **1 June 2021**
+10 June 2021 - Western Hemisphere
 
-Posters will be available to all attendees starting on 5 June 2021 - 12 June 2021. Our conference chat platform will host a channel for each poster, where conversations can be started between the author(s) and other attendees. Two virtual poster sessions will be held with times optimized for both hemispheres. This virtual space will augment our chat platform and allow attendees to browse a virtual posters room with spontaneous video chats, similar to an in-person conference. See [Gather](https://gather.town/)
+Start time: TBD (proceeding or following Q&A Session as time allows)
 
-Posters and the poster session will not be available to the public.
+**Technology**: Zoom breakout rooms
+
+
+## Posters
+Virtual posters must be submitted by **1 June 2021** - submission "portal" opens **25 May 2021**
+
+* Anyone can submit a poster until the final submission deadline 1 June 2021. (We highly encourage anyone considering making a poster to do so -- the impact of the conference will be directly correlated to the number of conversations we can start between researchers sharing ideas!)
+* Virtual posters can and should be different from the typical poster hall
+  * Acceptable styles of posters include:
+    * Static PDF
+    * Short (3-slide) PowerPoint presentation
+    * Recorded video/audio (3-min) of you presenting a PowerPoint presentation or static PDF (MP4 format)
+* Posters will be available for the duration of the conference
+  * Every submitted poster will have a dedicated channel in the Rocket.chat platform to allow for asynchronous discussion between the poster author(s) and other attendees throughout the week!
+* Posters will be hosted privately for conference attendees only
+  * Static posters will be hosted through a private Figshare link
+  * Video/audio recordings will be hosted on the BVCN YouTube as an unlisted/private video
+  * All posters will be removed from these repositories at the close of the conference
+* Posters submission will open 25 May 2021. Links for submitting a poster will be sent to all attendees 
+* There will be a virtual poster hall using Gather.town with Eastern and Western hemisphere start times above. Scheduled virtual poster sessions will last 2 hours, but the virtual poster hall will remain open from 14:00 UTC 10 June - 02:00 UTC 11 June, so that attendees can plan to meet at their posters when their schedule allows.
+* We would like to make it that all posters are accessible to all other participants. To make this a reality, poster files should be compatible with screen readers and text-to-speech software.
+  * PowerPoint has several features for making presentations accessible. Screen reading information is available [here](https://insider.office.com/en-us/blog/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader) and providing alternative text for figures can be found [here](https://support.microsoft.com/en-us/topic/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669).
+  * For posters in PDF format, you can check its optical character recognition (OCR) by running it through [https://ocr.space/](https://ocr.space/) or a similar OCR application. And we recommend the use of alternative text to describe figures.
 
 Posters include:
 
@@ -79,45 +136,19 @@ Posters include:
 
 Poster awards: Graduate students and ECRs will be eligible for 1 of 3 poster prizes awarded to commemorate work that exemplifies open science approaches to bioinformatics.
 
-### Accessibility
+## Conference software
+* Zoom - the Zoom app can be downloaded for free. All attendess will be sent links for events
+* [Rocket.chat](https://rocket.chat/) - all attendees will receive a month subscription of Rocket.chat
+* [Gather.town](https://gather.town/) - attendees will receive an invite to attend the virtual poster session
+
+## Accessibility
 Primary conference language: English (our conference platforms allow for attendees to self-aggregate into channels for language options driven by the attendee community)
 
-Recorded presentations will premiere with edited and cleaned closed captioning. Presentations will also be provided in PowerPoint format with alternative text provided for figures.
+Recorded presentations will premiere with edited and cleaned closed captioning. Presentations will also be provided in Powerpoint format with alternative text provided for figures.
 
 The Q&A Session will have Zoom provided live captioning and all questions and speaker answers will be recorded (and formalized) in a shared document format, providing a lasting resource for reference.
 
 Attendees will be guided with instructions to make accessible versions of their posters. Poster formats that allow for screen reading software and alternative text will be required, along with (optional) attendee voice-overs introducing/describing their posters.
-
-## Conference Diversity Goals
-
-Country of residence and research topics will be considered in the final decision for attendees.
-
-All decisions regarding attendees will be to maximize the diversity of the conference program.
-
-## Selection Process
-
-Expected attendee max. 150 with the following breakdown:
-
-* Graduate Students (50%)
-* Early Career Researchers (33%)
-* Principal Investigators (17%)
-
-Should attendee interest exceed our limit of 150 participants, we select attendees based on the following rubrics:
-
-Graduate students and ECRs
-
-* willingness to participate conference surveys
-* response to the question: "How do you expect that attending the *Holistic Bioinformatic Approaches used in Microbiome Research* will enhance your research and/or studies? (Max. 240 characters)"
-* country of current research institution
-* interest in supplying a poster presentation
-* participation or use of BVCN contents
-
-Principal Investigators
- 
-* willingness to participate conference surveys
-* response to the question: "Please provide a brief summary of your views regarding **good** mentorship of early career researchers, including your commitment to inclusive mentorship and practices in support of diversity and equity. (Max. 360 characters)"
-* country of current research institution
-* interest in supplying a poster presentation
 
 # Sponsors
 
