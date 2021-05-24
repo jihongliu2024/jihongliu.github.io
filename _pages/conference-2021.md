@@ -16,16 +16,16 @@ The Bioinformatics Virtual Coordination Network (BVCN) is committed to reducing 
 
 **Background** The BVCN was established to facilitate entry of researchers in environmental and biomedical sciences into computational biology. To further this goal, this upcoming conference is designed to provide a platform for showcasing bioinformatic projects from inception to publication. The holistic analysis of data intensive projects may contain many steps that are not covered in the tutorials or documented in the methods section of publications - our speakers will try and capture these elements in their presentations.
 
-We will send the final conference schedule on **1 June 2021**. If you have any questions about information in this email or other questions about the BVCN conference, please reach out to conference chair Dr. Ben Tully (tully.bj@gmail.com).
+We will send the final conference schedule on ~~**1 June 2021**~~ **3 June 2021**. If you have any questions about information in this email or other questions about the BVCN conference, please reach out to conference chair Dr. Ben Tully (tully.bj@gmail.com).
 
 Before we continue, we would like to emphasize that the BVCN conference is intended to be inclusive and accessible for all attendees. As such, we will not allow any violations of the [**BVCN Code of Conduct**](https://biovcnet.github.io/code-of-conduct/). 
  
 # Conference dates - 7-11 June 2021
-# [Pre-conference survey](https://forms.gle/xfp38yERGJQDA3Pt7) - submit by 7 May 2021 11:59PM US PST (<5 minutes in length)
+# Pre-conference survey - CLOSED
 
 ## Conference schedule
 
-A finalized schedule will be available before the start of the conference (**1 June 2021**). To help you plan your conference, here are some tentative times for various events. Start times are planned to allow attendees from both hemispheres to attend most events.
+A finalized schedule will be available before the start of the conference (**3 June 2021**). To help you plan your conference, here are some tentative times for various events. Start times are planned to allow attendees from both hemispheres to attend most events.
 
 <center>
 <img src="/images/schedule-table.png" width="90%">
@@ -49,9 +49,9 @@ Day 4 Q&A (West/East) - 10 June TBD
 
 Day 4 Fireside chat (West) - 10 June TBD (following Q&A)
 
-Day 5 Virtual Poster Hall (open) - [11 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Western+Hemisphere+Start+-+Day+5&iso=20210611T14&p1=1440&ah=2)
+Day 5 Virtual Poster Hall (West) - [11 June 14:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Western+Hemisphere+Start+-+Day+5&iso=20210611T14&p1=1440&ah=2)
 
-Day 5 Virtual Poster Hall (close) - [12 June 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Eastern+Hemisphere+Start+-+Day+5&iso=20210612T00&p1=1440&ah=2)
+Day 5 Virtual Poster Hall (East) - [12 June 00:00-02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Eastern+Hemisphere+Start+-+Day+5&iso=20210612T00&p1=1440&ah=2)
 
 ## Featured speaker presentations
 
@@ -59,7 +59,7 @@ Each day, two presentations will premiere as part of a Zoom webinar
 
 After the Western Hemisphere premiere, the presentations will be available for access through our YouTube channel
 
-**Technology**: Zoom Webinar, YouTube, Rocket.chat
+**Technology**: Zoom Webinar, YouTube, ~~Rocket.chat~~ Slack
 
 
 Day 1: **Biomedical Microbiology**
@@ -88,7 +88,7 @@ Day 3: **Microbial Biotechnology**
 ## LIVE Q&A Session
 Start time: TBD
 
-**Technology**: Zoom Webinar, Google Docs, Rocket.chat
+**Technology**: Zoom Webinar, Google Docs, ~~Rocket.chat~~ Slack
 
 
 ## Fireside chats 
@@ -106,7 +106,7 @@ Start time: TBD (proceeding or following Q&A Session as time allows)
 
 
 ## Posters
-Virtual posters must be submitted by **1 June 2021** - submission "portal" opens **25 May 2021**
+Virtual posters must be submitted by **2 June 2021 16:00 UTC** - submission "portal" opens **25 May 2021**
 
 * Anyone can submit a poster until the final submission deadline 1 June 2021. (We highly encourage anyone considering making a poster to do so -- the impact of the conference will be directly correlated to the number of conversations we can start between researchers sharing ideas!)
 * Virtual posters can and should be different from the typical poster hall
@@ -115,13 +115,13 @@ Virtual posters must be submitted by **1 June 2021** - submission "portal" opens
     * Short (3-slide) PowerPoint presentation
     * Recorded video/audio (3-min) of you presenting a PowerPoint presentation or static PDF (MP4 format)
 * Posters will be available for the duration of the conference
-  * Every submitted poster will have a dedicated channel in the Rocket.chat platform to allow for asynchronous discussion between the poster author(s) and other attendees throughout the week!
+  * Every submitted poster will have a dedicated channel in the ~~Rocket.chat~~ Slack platform to allow for asynchronous discussion between the poster author(s) and other attendees throughout the week!
 * Posters will be hosted privately for conference attendees only
   * Static posters will be hosted through a private Figshare link
   * Video/audio recordings will be hosted on the BVCN YouTube as an unlisted/private video
   * All posters will be removed from these repositories at the close of the conference
 * Posters submission will open 25 May 2021. Links for submitting a poster will be sent to all attendees 
-* There will be a virtual poster hall using Gather.town with Eastern and Western hemisphere start times above. Scheduled virtual poster sessions will last 2 hours, but the virtual poster hall will remain open from 14:00 UTC 10 June - 02:00 UTC 11 June, so that attendees can plan to meet at their posters when their schedule allows.
+* There will be a virtual poster hall using Gather.town with Eastern and Western hemisphere start times above. Scheduled virtual poster sessions will last 2 hours~~, but the virtual poster hall will remain open from 14:00 UTC 10 June - 02:00 UTC 11 June, so that attendees can plan to meet at their posters when their schedule allows~~.
 * We would like to make it that all posters are accessible to all other participants. To make this a reality, poster files should be compatible with screen readers and text-to-speech software.
   * PowerPoint has several features for making presentations accessible. Screen reading information is available [here](https://insider.office.com/en-us/blog/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader) and providing alternative text for figures can be found [here](https://support.microsoft.com/en-us/topic/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669).
   * For posters in PDF format, you can check its optical character recognition (OCR) by running it through [https://ocr.space/](https://ocr.space/) or a similar OCR application. And we recommend the use of alternative text to describe figures.
@@ -137,8 +137,9 @@ Posters include:
 Poster awards: Graduate students and ECRs will be eligible for 1 of 3 poster prizes awarded to commemorate work that exemplifies open science approaches to bioinformatics.
 
 ## Conference software
-* Zoom - the Zoom app can be downloaded for free. All attendess will be sent links for events
-* [Rocket.chat](https://rocket.chat/) - all attendees will receive a month subscription of Rocket.chat
+* [Zoom](https://zoom.us/) - the Zoom app can be downloaded for free. All attendess will be sent links for events
+* ~~[Rocket.chat](https://rocket.chat/) - all attendees will receive a month subscription of Rocket.chat~~
+* [Slack](https://slack.com/) - all attendees will receive a month subscription of Slack
 * [Gather.town](https://gather.town/) - attendees will receive an invite to attend the virtual poster session
 
 ## Accessibility
