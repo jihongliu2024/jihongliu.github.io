@@ -41,9 +41,9 @@ Day 2 Featured presentations (East) - [9 June 00:00 UTC](https://www.timeanddate
 
 Day 3 Featured presentations (West) - [9 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+3&iso=20210609T14&p1=1440&ah=2)
 
-Day 3 Featured presentations (East) - [10 June 00:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside+chat+-+Day+3&iso=20210610T02&p1=1440&ah=1&am=15)
+Day 3 Featured presentations (East) - [10 June 00:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+3&iso=20210610T00&p1=1440&ah=1&am=15)
 
-Day 3 Fireside chat (East) - 10 June 02:00 UTC
+Day 3 Fireside chat (East) - [10 June 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside+chat+-+Day+3&iso=20210610T02&p1=1440&ah=1&am=15)
 
 Day 4 Q&A (West/East) - 10 June TBD
 
