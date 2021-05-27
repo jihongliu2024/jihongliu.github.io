@@ -130,8 +130,11 @@ Posters include:
 
 * title
 * abstract
-* virtual poster optimized with accessibility elements (formats: 3-slide PowerPoint, PDF)
-* (optional) voice recording of the poster (less than 3-minutes; format: MP4)
+* virtual poster optimized with accessibility elements 
+* 1 of 3 possible formats - you may be asked to provide 2 different source files (1 for high-quality share, 1 for the virtual poster session)
+  * Format 1. Static PDF (format: PDF, JPG, PNG, SVG, etc)
+  * Format 2. Short format slide presentation (format: PPT, PPTX, ODP, etc)
+  * Format 3. Short format slide presentation with audio (format: MP4)
 * (optional) one question that you want/need/desire to be answered. Think bioinformatic centric conversation starters, like: "How do I convert my data table to look like this type of figure?" or "Which tool performs this specific step I need in my analysis?" 
 
 Poster awards: Graduate students and ECRs will be eligible for 1 of 3 poster prizes awarded to commemorate work that exemplifies open science approaches to bioinformatics.
