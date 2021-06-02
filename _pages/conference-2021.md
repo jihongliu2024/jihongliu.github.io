@@ -28,7 +28,7 @@ Before we continue, we would like to emphasize that the BVCN conference is inten
 A finalized schedule will be available before the start of the conference (**3 June 2021**). To help you plan your conference, here are some tentative times for various events. Start times are planned to allow attendees from both hemispheres to attend most events.
 
 <center>
-<img src="/images/schedule-table.png" width="90%">
+<img src="/images/schedule-table-final.png" width="90%">
 </center>
 
 Day 1 Featured presentations (West) - [7 June 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Holistic+Bioinformatic+Approaches+used+in+Microbiome+Research+-+Featured+Presentations+Day+1&iso=20210607T14&p1=1440&ah=2)
@@ -45,9 +45,9 @@ Day 3 Featured presentations (East) - [10 June 00:00 UTC](https://www.timeanddat
 
 Day 3 Fireside chat (East) - [10 June 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside+chat+-+Day+3&iso=20210610T02&p1=1440&ah=1&am=15)
 
-Day 4 Q&A (West/East) - 10 June TBD
+Day 4 Q&A (West/East) - [10 June 13:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=BVCN+Conference+Q%26A+Session&iso=20210610T13&p1=1440&ah=1&am=30)
 
-Day 4 Fireside chat (West) - 10 June TBD (following Q&A)
+Day 4 Fireside chat (West) - [10 June 14:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside+chat+-+Day+4&iso=20210610T1430&p1=1440&ah=1&am=30)
 
 Day 5 Virtual Poster Hall (West) - [11 June 14:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Poster+Hall+Western+Hemisphere+Start+-+Day+5&iso=20210611T14&p1=1440&ah=2)
 
