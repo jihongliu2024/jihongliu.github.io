@@ -42,9 +42,9 @@ sidebar:
 
 # BVCN Instructors
 
-## Jake L. Weissman
+## JL Weissman
 
-<img align="left" src="/images/headshot1c.png" style="padding-right: 15px">
+<img align="left" src="/images/headshot1c.png" width="200px" style="padding-right: 15px">
 
 **Email:** jakeweis@usc.edu
 
