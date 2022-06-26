@@ -1,4 +1,4 @@
-The BioVCN website repository and wiki. Please contact Jake Weissman (jakeweis@usc.edu) if you would like to have access to contribute (include who you are so that I can verify and your github username).
+The BioVCN website repository and wiki. Please contact JL Weissman (jakeweis@usc.edu) if you would like to have access to contribute (include who you are so that I can verify and your github username).
 
 The site is hosted at [biovcnet.github.io](https://biovcnet.github.io/).
 
