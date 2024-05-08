@@ -18,7 +18,7 @@ A Method for Measuring 3-D Surface Deformations With InSAR Based on Strain Model
 <title>PDF Viewer</title>
 </head>
 <body>
-<iframe src="smvce.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/images/smvce.pdf" width="100%" height="600px" style="border: none;"></iframe>
 </body>
 </html>
 
