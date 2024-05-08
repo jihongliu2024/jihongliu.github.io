@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "What is the Bioinformatics Virtual Coordination Network"
-excerpt: "What is BVCN?"
+title: "About me"
+#excerpt: "What is BVCN?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,16 +10,22 @@ sidebar:
   nav: "main"
 ---
 
-Welcome to the website for the Bioinformatics Virtual Coordination Network (BVCN). The group was started in March 2020 in response to the COVID-19 pandemic. As research laboratories were shutting,  we, a group of bioinformaticians and computational biologists, sought to formalize training to helping wet-lab biologists pick up some computational skills/begin computational projects during the global crisis. 
+I am now a Postdoctal Fellow of [CDI group in KAUST](https://cdi.kaust.edu.sa). My research focuses InSAR geodesy, particularly on InSAR 3D displacements monitoring, InSAR time series methods, and their applications to earthquakes, volcano eruptions, landslides, ground subsidence, and so on.
 
-Please see [here](https://biovcnet.github.io/_pages/get-involved/) if you'd like to be involved by either helping or participating or both!
+Experience
+======
+2022.10-now, Postdoctal Fellow, King Abdullah University of Science and Technology (KAUST)
 
-# BVCN Organization
+2017.9-2022.6, Ph.D, Central South University
 
-This webpage functions as the central hub for the Bioinformatics Virtual Coordination Network. To get started with the various lessions and tutorials created by our instructors, you should visit our [Wiki page](https://github.com/biovcnet/biovcnet.github.io/wiki). From there you can access the 10 topics created by the [BVCN Volunteer Instructors](https://biovcnet.github.io/people.html). If you'd like to participate in the BVCN – ask questions, meet other scientists at your experience level, participate in discussion – you can receive an invitation to our Slack channel by completing this [survey](https://forms.gle/bwe3pmAF2YppUT5d7).
+2013.9-2017.6, B.S, Central South University
 
----
+Contact me
+======
+jihong.liu@kaust.edu.sa; liujihong@csu.edu.cn
 
-<center>
-<img src="/images/Network-Organization-Overview-square.jpg" width="90%">
-</center>
+News
+======
+8 May 2024, Jihong's website started.
+
+
