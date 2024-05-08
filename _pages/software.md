@@ -55,6 +55,7 @@ Your details will not be distributed but only used to inform you with toolbox up
 
 ## SIGMA+DetrendInSAR
 SIGMA, Strain-model based InSAR for Geo-hazards' Monitoring Approach, aims to decrease the decorrelation noise in DInSAR interograms based on strain model, and to obtain high-quality InSAR phase time series.
+
 DetrendInSAR, DEcrease both the TRENd and Dem-correlated components in InSAR time series, aims to decrease the atmospheric delays and orbital errors in InSAR phase time series (SIGMA output) based on the spatiotemporal characteristics of different components, and to obtain high-quality InSAR displacement time series.
 
 <html lang="en">
