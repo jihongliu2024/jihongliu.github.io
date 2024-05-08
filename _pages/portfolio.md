@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Gallery"
+title: ""
 redirect_from: 
   - /portfolio/
   - /portfolio.html
@@ -25,6 +25,7 @@ sidebar:
 <img src="/images/hawaii.jpg" width="90%">
 </center>
 
+#
 # Multi-temporal InSAR
 ## The superior performance of SIGMA method over the Geysers geothermal field
 <center>
@@ -36,6 +37,7 @@ sidebar:
 <img src="/images/detrend.png" width="90%">
 </center>
 
+#
 # Off-fault damage
 ## The absent surface displacements related to the off-fault damage around the 2023 Turkiye earthquake ruptures
 <center>
