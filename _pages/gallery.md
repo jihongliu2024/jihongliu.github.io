@@ -12,13 +12,13 @@ sidebar:
 <center>
 <img src="/images/turkey.png" width="90%">
 </center>
-
+[Submitted]
 
 ## The 2021 Maduo earthquake
 <center>
 <img src="/images/maduo.jpg" width="90%">
 </center>
-
+[Publication](https://doi.org/10.1007/s11430-021-9868-9)
 
 ## The 2007 eruption of Kilauea Volcano (Hawai’i)
 <center>
