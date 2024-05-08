@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bioinformatics Virtual Coordination Network"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "BVCN"
+name                     : &name "Jihong Liu"
 description              : &description "Description"
 url                      : https://jihongliu2024.github.io #https://biovcnet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
