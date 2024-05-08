@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 ---
 
-## SM-VCE
+## (1)SM-VCE
 A Method for Measuring 3-D Surface Deformations With InSAR Based on Strain Model and Variance Component Estimation.
 
 <html lang="en">
@@ -64,7 +64,7 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
 Your details will not be distributed but only used to inform you with toolbox updates.
 
 
-## SIGMA+DetrendInSAR
+## (2)SIGMA+DetrendInSAR
 SIGMA, Strain-model based InSAR for Geo-hazards' Monitoring Approach, aims to decrease the decorrelation noise in DInSAR interograms based on strain model, and to obtain high-quality InSAR phase time series.
 
 DetrendInSAR, DEcrease both the TRENd and Dem-correlated components in InSAR time series, aims to decrease the atmospheric delays and orbital errors in InSAR phase time series (SIGMA output) based on the spatiotemporal characteristics of different components, and to obtain high-quality InSAR displacement time series.
