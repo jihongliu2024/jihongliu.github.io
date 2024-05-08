@@ -29,7 +29,4 @@ News
 8 May 2024, Jihong's website started.
 
 
-<center>
-<img src="/images/turkey.png" width="90%">
-</center>
 
