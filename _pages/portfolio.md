@@ -36,7 +36,8 @@ sidebar:
 <img src="/images/detrend.png" width="90%">
 </center>
 
-# The absent surface displacements related to the off-fault damage around the 2023 Turkiye earthquake ruptures
+# Off-fault damage
+## The absent surface displacements related to the off-fault damage around the 2023 Turkiye earthquake ruptures
 <center>
 <img src="/images/abd.png" width="90%">
 </center>
