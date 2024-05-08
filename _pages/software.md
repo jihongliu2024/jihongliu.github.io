@@ -14,6 +14,17 @@ A Method for Measuring 3-D Surface Deformations With InSAR Based on Strain Model
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PDF Viewer</title>
+</head>
+<body>
+<iframe src="smvce.pdf" width="100%" height="600px" style="border: none;"></iframe>
+</body>
+</html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=35%, initial-scale=0.35">
 <title>Form Example</title>
 </head>
