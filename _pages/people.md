@@ -1,13 +1,25 @@
 ---
+permalink: /
 layout: archive
 title: ""
+author_profile: true
 redirect_from: 
   - /people/
   - /people.html
 sidebar:
   nav: "main"
 ---
-
+#---
+#permalink: /
+#title: "About me"
+##excerpt: "What is BVCN?"
+#author_profile: true
+#redirect_from: 
+#- /about/
+#- /about.html
+#sidebar:
+#nav: "main"
+#---
 # Still me
 
 ## Jihong Liu
