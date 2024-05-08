@@ -6,6 +6,9 @@ main:
   - title: "People"
     url: /people.html  
 
+  - title: "Publications"
+    url: /publications.md  
+
   #- title: "Wiki"
   #  url: https://github.com/biovcnet/biovcnet.github.io/wiki   
 
