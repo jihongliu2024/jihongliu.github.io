@@ -39,7 +39,7 @@ sidebar:
 
 #
 # Off-fault damage
-## The absent surface displacements related to the off-fault damage around the 2023 Turkiye earthquake ruptures
+## The absent surface displacements (ASD) related to the off-fault damage around the 2023 Turkiye earthquake ruptures
 <center>
 <img src="/images/asd.jpg" width="90%">
 </center>
