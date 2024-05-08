@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about.html
 
-  - title: "People"
-    url: /people.html  
+  #- title: "People"
+    #url: /people.html  
 
   - title: "Publications"
     url: /publications.html  
