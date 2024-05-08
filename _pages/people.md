@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: ""
 redirect_from: 
   - /people/
   - /people.html
@@ -8,7 +8,7 @@ sidebar:
   nav: "main"
 ---
 
-# To be more and more
+# Still me
 
 ## Jihong Liu
 
