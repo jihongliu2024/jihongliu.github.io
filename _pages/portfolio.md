@@ -22,14 +22,14 @@ sidebar:
 
 ## The 2007 eruption of Kilauea Volcano (Hawai’i)
 <center>
-<img src="/images/hawaii.jpg" width="90%">
+<img src="/images/hawaii.jpg" width="60%">
 </center>
 
 #
 # Multi-temporal InSAR
 ## The superior performance of SIGMA method over the Geysers geothermal field
 <center>
-<img src="/images/geysers.png" width="90%">
+<img src="/images/geysers.png" width="70%">
 </center>
 
 ## A magnitude 5.4 event after the Mw7.4 Maduo earthquake with DetrendInSAR method
