@@ -50,4 +50,5 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
 
 </body>
 </html>
+
 Your details will not be distributed but only used to inform you with toolbox updates.
