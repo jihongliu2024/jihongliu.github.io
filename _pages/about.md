@@ -1,5 +1,5 @@
 ---
-permalink: /
+#permalink: /
 title: "About me"
 #excerpt: "What is BVCN?"
 author_profile: true
