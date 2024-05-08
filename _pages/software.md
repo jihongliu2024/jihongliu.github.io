@@ -26,7 +26,7 @@ A Method for Measuring 3-D Surface Deformations With InSAR Based on Strain Model
     <input type="text" id="institute" name="institute"><br>
     <label for="email">Email:</label><br>
     <input type="email" id="email" name="email"><br><br>
-    <button type="submit">Submit</button>
+    <button type="submit">Submit&Download</button>
 </form>
 
 <script>
@@ -72,7 +72,7 @@ DetrendInSAR, DEcrease both the TRENd and Dem-correlated components in InSAR tim
     <input type="text" id="institute" name="institute"><br>
     <label for="email">Email:</label><br>
     <input type="email" id="email" name="email"><br><br>
-    <button type="submit">Submit</button>
+    <button type="submit">Submit&Download</button>
 </form>
 
 <script>
