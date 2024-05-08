@@ -2,8 +2,8 @@
 layout: archive
 title: ""
 redirect_from: 
-  - /portfolio/
-  - /portfolio.html
+  - /gallery/
+  - /gallery.html
 sidebar:
   nav: "main"
 ---
