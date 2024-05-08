@@ -6,14 +6,14 @@ main:
   - title: "People"
     url: /people.html  
 
-  - title: "Wiki"
-    url: https://github.com/biovcnet/biovcnet.github.io/wiki   
+  #- title: "Wiki"
+  #  url: https://github.com/biovcnet/biovcnet.github.io/wiki   
 
-  - title: "YouTube"
-    url: https://www.youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low
+ # - title: "YouTube"
+ #   url: https://www.youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low
     
-  - title: "Get Involved"
-    url: /get-involved.html
+ # - title: "Get Involved"
+ #   url: /get-involved.html
     
   - title: "Conference 2021"
     url: /conference-2021.html
