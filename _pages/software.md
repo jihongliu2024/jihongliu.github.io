@@ -47,7 +47,6 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
     // document.getElementById("myForm").reset();
 });
 </script>
-
 </body>
 </html>
 
