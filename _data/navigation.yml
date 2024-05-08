@@ -19,7 +19,7 @@ main:
  #   url: https://www.youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low
     
   - title: "Gallery"
-    url: /portfolio.html
+    url: /gallery.html
 
     
   #- title: "Conference 2021"
