@@ -18,6 +18,7 @@ sidebar:
 
 **[Website](https://jihongliu2024.github.io)**
 
-**Bio:** I am a microbiologist/bioinformatian working in the marine environment. My interests involve studying microbial communities and functions through the tool of metagenomics. As part of this research, I work to develop new bioinformatic tools that capitalizes on the growing number of environmental microbial genomes.
+**Bio:** I am now a Postdoctal Fellow of [CDI group in KAUST](https://cdi.kaust.edu.sa). My research focuses InSAR geodesy, particularly on InSAR 3D displacements monitoring, InSAR time series methods, and their applications to earthquakes, volcano eruptions, landslides, ground subsidence, and so on.
+
 
 
