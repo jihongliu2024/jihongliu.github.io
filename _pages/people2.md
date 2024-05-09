@@ -4,8 +4,8 @@ title: "About me"
 #excerpt: "What is BVCN?"
 author_profile: true
 redirect_from: 
-  - /people/
-  - /people.html
+  - /people2/
+  - /people2.html
 sidebar:
   nav: "main"
 ---
