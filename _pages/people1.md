@@ -4,8 +4,8 @@ layout: archive
 title: ""
 author_profile: true
 redirect_from: 
-  - /people/
-  - /people.html
+  - /people1/
+  - /people1.html
 sidebar:
   nav: "main"
 ---
