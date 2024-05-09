@@ -11,6 +11,24 @@ sidebar:
 ## (1)SM-VCE
 A Method for Measuring 3-D Surface Deformations With InSAR Based on Strain Model and Variance Component Estimation.
 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网页</title>
+</head>
+<body>
+    <!-- 这里插入腾讯文档的嵌入代码 -->
+    <iframe src="https://docs.qq.com/form/page/DVGVPakpFWUV1VHhZ" width="100%" height="600px" frameborder="0" scrolling="auto"></iframe>
+    <!-- 替换 src 属性的值为你的腾讯文档的嵌入链接 -->
+
+    <p>这是我的个人网页。</p>
+</body>
+</html>
+
+
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
