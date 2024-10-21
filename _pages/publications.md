@@ -8,6 +8,10 @@ sidebar:
   nav: "main"
 ---
 
+2024
+---
+[14] **Liu, J.**, Hu, J., Bürgmann, R., Li, Z., & Jónsson, S. (2024). Mitigating Atmospheric Delays in InSAR Time Series : The DetrendInSAR Method and Its Validation. **Journal of Geophysical Research: Solid Earth**, 129, e2024JB028920. https://doi.org/10.1029/2024JB028920
+
 2023
 ---
 [13] **Liu, J.**, Hu, J., Li, Z., Zhang, L., Sun, Q., Zhu, J., & Wu, L. (2023). Dynamically estimating deformations with wrapped InSAR based on sequential adjustment. **Journal of Geodesy**, 97, 49. https://doi.org/10.1007/s00190-023-01741-1
