@@ -10,7 +10,7 @@ sidebar:
   nav: "main"
 ---
 
-# Still me
+# Welcome to my website
 
 ## Jihong Liu
 
